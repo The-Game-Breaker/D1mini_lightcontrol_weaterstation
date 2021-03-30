@@ -22,8 +22,8 @@ BlynkTimer timer2;
 #define COLOR_ORDER GRB
 CRGB leds1[NUM_LEDS1];
 char auth[] = "DnseZDCWadka4ELtcW71syltsF0MkTg_";
-char ssid[] = "Laureyn";
-char pass[] = "Breedsmoelkikker138";
+char ssid[] = "ssid";
+char pass[] = "yourpaswrd";
 char host[] = "192.168.50.191";
 #define PIN1 D3
 int data = 255;
